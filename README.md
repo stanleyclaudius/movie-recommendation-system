@@ -1,5 +1,5 @@
 ## Movie Recommendation System
-This project will mainly focused on developing recommender system for movie using Python. The dataset being used in this project is the movie dataset that provided by TMDB and obtained from Kaggle.
+This project will mainly focused on developing recommendation system for movie using Python. The dataset being used in this project is the movie dataset that provided by TMDB and obtained from Kaggle.
 
 Click [here](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv) to get the dataset from Kaggle
 
